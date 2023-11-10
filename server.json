@@ -1,20 +1,52 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-11-09T19:06:43.245Z"
-        },
-        {
-            "id": 2,
-            "description": "Lanche",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2023-11-09T16:06:43.245Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-11-09T19:06:43.245Z"
+    },
+    {
+      "id": 2,
+      "description": "Lanche",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-11-09T16:06:43.245Z"
+    },
+    {
+      "id": 3,
+      "description": "Vape",
+      "type": "outcome",
+      "category": "Recreativos",
+      "price": 500,
+      "createdAt": "2023-11-09T19:06:43.245Z"
+    },
+    {
+      "id": 4,
+      "description": "Cassino",
+      "type": "outcome",
+      "category": "Tristeza",
+      "price": 5000,
+      "createdAt": "2023-11-09T19:06:43.245Z"
+    },
+    {
+      "description": "NS dos cria",
+      "price": 50,
+      "category": "Ai",
+      "type": "outcome",
+      "createdAt": "2023-11-09T22:31:06.655Z",
+      "id": 5
+    },
+    {
+      "description": "Upgrade no PC",
+      "price": 2000,
+      "category": "Entretenimento",
+      "type": "outcome",
+      "createdAt": "2023-11-09T23:38:25.796Z",
+      "id": 6
+    }
+  ]
 }
